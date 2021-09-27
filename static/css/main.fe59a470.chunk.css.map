@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACE,QAAS,CACT,SAAU,CACV,sCACF","file":"main.fe59a470.chunk.css","sourcesContent":["html,body {\n  margin: 0;\n  padding: 0;\n  font-family: 'JetBrains Mono', monospace;\n}\n"]}
