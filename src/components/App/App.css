@@ -2,3 +2,12 @@
   max-width: 80ch;
   margin: 3rem auto 0;
 }
+
+.App__search-input {
+  border: 1px solid #ccc; font-family: inherit; font-size: inherit;
+  padding: 0.5em 0.5ch; width: 40ch;
+}
+
+
+.App__result {}
+.App__result_loading {opacity: 0.3;}
